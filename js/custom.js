@@ -284,16 +284,16 @@ $(document).ready(function(){
   function generateLabnCarousel() {
 
     var defaultCss = {
-      width: 100,
-      height: 100,
+      width: 200,
+      height: 150,
       marginTop: 50,
       marginRight: 0,
       marginLeft: 0,
       opacity: 0.2
     };
     var selectedCss = {
-      width: 150,
-      height: 150,
+      width: 250,
+      height: 200,
       marginTop: 30,
       marginRight: -25,
       marginLeft: -25,
